@@ -68,6 +68,11 @@ ssh -i "sandysshinstance.pem" ec2-user@ec2-18-224-93-207.us-east-2.compute.amazo
 	for i in 1 2 3 4 5
 	do
 	echo "looping through $i"
-	done
+	done\
+
+
+
+#### Task1:-
+	* creating a bash script that will install all the required tools
 
 
